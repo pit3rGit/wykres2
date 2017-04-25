@@ -1,0 +1,49 @@
+D:\Projects\C sharp\wykres2\wykres2\bin\Debug\wykres2.exe.config
+D:\Projects\C sharp\wykres2\wykres2\obj\Debug\wykres2.Form1.resources
+D:\Projects\C sharp\wykres2\wykres2\obj\Debug\wykres2.Properties.Resources.resources
+D:\Projects\C sharp\wykres2\wykres2\obj\Debug\wykres2.csproj.GenerateResource.Cache
+D:\Projects\C sharp\wykres2\wykres2\bin\Debug\wykres2.exe
+D:\Projects\C sharp\wykres2\wykres2\bin\Debug\wykres2.pdb
+D:\Projects\C sharp\wykres2\wykres2\obj\Debug\wykres2.exe
+D:\Projects\C sharp\wykres2\wykres2\obj\Debug\wykres2.pdb
+D:\Projects\C sharp\wykres2\wykres2\obj\Debug\wykres2.csprojResolveAssemblyReference.cache
+D:\Zoho Docs\C_Sharp\wykres2\wykres2\bin\Debug\wykres2.exe.config
+D:\Zoho Docs\C_Sharp\wykres2\wykres2\obj\Debug\wykres2.exe
+D:\Zoho Docs\C_Sharp\wykres2\wykres2\obj\Debug\wykres2.pdb
+D:\Zoho Docs\C_Sharp\wykres2\wykres2\obj\Debug\wykres2.csprojResolveAssemblyReference.cache
+D:\Zoho Docs\C_Sharp\wykres2\wykres2\obj\Debug\wykres2.csproj.GenerateResource.Cache
+D:\Zoho Docs\C_Sharp\wykres2\wykres2\bin\Debug\wykres2.exe
+D:\Zoho Docs\C_Sharp\wykres2\wykres2\bin\Debug\wykres2.pdb
+D:\Zoho Docs\C_Sharp\wykres2\wykres2\obj\Debug\wykres2.Form1.resources
+D:\Zoho Docs\C_Sharp\wykres2\wykres2\obj\Debug\wykres2.Properties.Resources.resources
+D:\Zoho Docs\C_Sharp\wykres2\wykres2\obj\Debug\wykres2.Form2.resources
+F:\C_Sharp\wykres2\wykres2\bin\Debug\wykres2.exe.config
+F:\C_Sharp\wykres2\wykres2\obj\Debug\wykres2.exe
+F:\C_Sharp\wykres2\wykres2\obj\Debug\wykres2.pdb
+F:\C_Sharp\wykres2\wykres2\bin\Debug\wykres2.exe
+F:\C_Sharp\wykres2\wykres2\bin\Debug\wykres2.pdb
+F:\C_Sharp\wykres2\wykres2\obj\Debug\wykres2.Form1.resources
+F:\C_Sharp\wykres2\wykres2\obj\Debug\wykres2.Form2.resources
+F:\C_Sharp\wykres2\wykres2\obj\Debug\wykres2.Properties.Resources.resources
+F:\C_Sharp\wykres2\wykres2\obj\Debug\wykres2.csproj.GenerateResource.Cache
+F:\C_Sharp\wykres2\wykres2\obj\Debug\wykres2.TrustInfo.xml
+F:\C_Sharp\wykres2\wykres2\bin\Debug\wykres2.exe.manifest
+F:\C_Sharp\wykres2\wykres2\bin\Debug\wykres2.application
+F:\C_Sharp\wykres2\wykres2\obj\Debug\wykres2.exe.manifest
+F:\C_Sharp\wykres2\wykres2\obj\Debug\wykres2.application
+F:\C_Sharp\wykres2\wykres2\obj\Debug\wykres2.csprojResolveAssemblyReference.cache
+I:\C_Sharp\wykres2\wykres2\bin\Debug\wykres2.exe.config
+I:\C_Sharp\wykres2\wykres2\obj\Debug\wykres2.exe
+I:\C_Sharp\wykres2\wykres2\obj\Debug\wykres2.pdb
+I:\C_Sharp\wykres2\wykres2\bin\Debug\wykres2.exe.manifest
+I:\C_Sharp\wykres2\wykres2\bin\Debug\wykres2.application
+I:\C_Sharp\wykres2\wykres2\bin\Debug\wykres2.exe
+I:\C_Sharp\wykres2\wykres2\bin\Debug\wykres2.pdb
+I:\C_Sharp\wykres2\wykres2\obj\Debug\wykres2.csprojResolveAssemblyReference.cache
+I:\C_Sharp\wykres2\wykres2\obj\Debug\wykres2.Form1.resources
+I:\C_Sharp\wykres2\wykres2\obj\Debug\wykres2.Form2.resources
+I:\C_Sharp\wykres2\wykres2\obj\Debug\wykres2.Properties.Resources.resources
+I:\C_Sharp\wykres2\wykres2\obj\Debug\wykres2.csproj.GenerateResource.Cache
+I:\C_Sharp\wykres2\wykres2\obj\Debug\wykres2.TrustInfo.xml
+I:\C_Sharp\wykres2\wykres2\obj\Debug\wykres2.exe.manifest
+I:\C_Sharp\wykres2\wykres2\obj\Debug\wykres2.application
